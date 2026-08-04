@@ -41,6 +41,7 @@ Essa organização permite acompanhar minha evolução ao longo da matéria.
 ## 🧠 Tecnologias
 
 <p align="left">
+  <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="C++" title="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </p>
@@ -49,6 +50,7 @@ Essa organização permite acompanhar minha evolução ao longo da matéria.
 
 ## 📬 Contato
 
+- 📧 **E-mail:** <andrefigueiredo105@gmail.com>
 - 💼 **LinkedIn:** <https://www.linkedin.com/in/andreluizfrosa/>
 
 ---
@@ -56,8 +58,8 @@ Essa organização permite acompanhar minha evolução ao longo da matéria.
 ## ℹ️ Sobre o projeto
 
 - **Autor:** André Luiz
-- **Linguagem:** C / C++
-- **IDE:** Apache NetBeans // IntelliJ IDEA // VS Code
+- **Linguagem:** Jva, C ,C++
+- **IDE:** IntelliJ IDEA // CLion // VS Code
 - **Instituição:** PUC Minas
 - **Disciplina:** Algoritmos e Estruturas de Dados II
 - **Status:** Em andamento 📚
