@@ -14,7 +14,7 @@ Este repositório tem como objetivo consolidar os conceitos avançados de estrut
 - grafos e algoritmos de busca/caminho
 - tabelas hash
 - análise de complexidade e eficiência de algoritmos
-- boas práticas de desenvolvimento em C/C++
+- boas práticas de desenvolvimento em Java, C/C++
 
 ---
 
